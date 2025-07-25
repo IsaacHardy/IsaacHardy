@@ -8,20 +8,17 @@ I'm a senior web developer and product leader with over a decade of experience b
 
 ## ✨ Featured Projects & Contributions
 
-### 🧭 [BibleProject](https://bibleproject.com)
-**Senior Web Developer** (2022–2025)
+#### 🧭 [BibleProject](https://bibleproject.com)
 
-### 🛠️ [Ministry Pass](https://ministrypass.com)
+#### 🛠️ [Ministry Pass](https://ministrypass.com)
 
-### 🧱 [Church Online Platform – YouVersion](https://churchonlineplatform.com)
-**Engineering Manager at Airship** (2019–2021)
+#### 🧱 [Church Online Platform – YouVersion](https://churchonlineplatform.com)
 
-### 📖 [Read Scripture App – The Bible Project](https://www.readscripture.org/)
+#### 📖 [Read Scripture App – The Bible Project](https://www.readscripture.org/)
 
-### 🌱 [Apollos Project (Open Source)](https://github.com/ApollosProject)
-**Core Contributor via NewSpring Church** (2017–2019)  
+#### 🌱 [Apollos Project (Open Source)](https://github.com/ApollosProject) 
 
-### 🌍 [127 Worldwide](https://127worldwide.org)
+#### 🌍 [127 Worldwide](https://127worldwide.org)
 
 ---
 
