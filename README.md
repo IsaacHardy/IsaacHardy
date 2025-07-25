@@ -23,7 +23,6 @@ I'm a senior web developer and product leader with over a decade of experience b
 ---
 
 ## 🧠 My Toolbox
-
 **Languages & Frameworks:**  
 Typescript, Javascript, React, React Native, Remix, Node.js, GraphQL, Apollo, HTML/CSS, PHP, Ruby
 
@@ -36,7 +35,6 @@ New Relic, E2E Testing, User Feedback Loops, Google Design Sprints
 ---
 
 ## 🧭 Leadership Philosophy
-
 I'm passionate about building high-trust teams shaped by humility, servanthood, and unity. I see leadership as discipleship—walking alongside others, multiplying impact, and modeling what it means to serve faithfully in every role. My technical leadership draws from biblical patterns, servant leadership models, and a Kingdom-first mindset.
 
 🕊 “That, in the opinion of the world, others may increase and I may decrease.”
@@ -44,7 +42,6 @@ I'm passionate about building high-trust teams shaped by humility, servanthood, 
 ---
 
 ## 📚 Background
-
 - 👨‍🏫 Instructor, [The Iron Yard](https://en.wikipedia.org/wiki/The_Iron_Yard) – Taught immersive web development bootcamps
 - 🧑‍🎓 BA Candidate in Integrated Ministry Studies  
 - 🤝 Volunteer leader in church small groups, youth ministry, and Little League
@@ -52,7 +49,6 @@ I'm passionate about building high-trust teams shaped by humility, servanthood, 
 ---
 
 ## 📫 Let’s Connect
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/isaachardy)  
 - 📨 joshua.isaac.hardy@gmail.com  
 - 🌎 Based in Warner Robins, GA
