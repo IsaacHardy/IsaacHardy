@@ -2,7 +2,7 @@
 
 🎯 **Engineering Leader | Kingdom-Driven Technologist | Builder of Digital Platforms for the Global Church**
 
-I'm a senior web developer and product leader with over a decade of experience building web and mobile platforms that serve the Church and amplify the gospel. My career has spanned some of the most influential ministries and organizations in the Christian tech space, where I’ve led engineering efforts, built cross-functional teams, and helped launch experiences that equip the Church to flourish in a digital world.
+I'm a product leader with over a decade of experience building web and mobile platforms that serve the Church and amplify the gospel. My career has spanned some of the most influential ministries and organizations in the Christian tech space, where I’ve led engineering efforts, built cross-functional teams, and helped launch experiences that equip the Church to flourish in a digital world.
 
 ## ✨ Featured Projects & Contributions
 
