@@ -37,7 +37,7 @@ I'm passionate about building high-trust teams shaped by humility, servanthood, 
 
 ## 📚 Background
 - 👨‍🏫 Instructor, [The Iron Yard](https://en.wikipedia.org/wiki/The_Iron_Yard) – Taught immersive web development bootcamps
-- 🧑‍🎓 BA Candidate in Integrated Ministry Studies  
+- 🧑‍🎓 BS in Integrated Ministry Studies  
 - 🤝 Volunteer leader in church small groups, youth ministry, and Little League
 
 ## 📫 Let’s Connect
