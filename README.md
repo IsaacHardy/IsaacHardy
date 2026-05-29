@@ -6,7 +6,9 @@ I'm a product leader with over a decade of experience building web and mobile pl
 
 ## ✨ Featured Projects & Contributions
 
-#### 🧭 [BibleProject](https://bibleproject.com)
+#### ✝️ [He Gets Us](https://hegetsus.com)
+
+#### 📘 [BibleProject](https://bibleproject.com)
 
 #### 🛠️ [Ministry Pass](https://ministrypass.com)
 
